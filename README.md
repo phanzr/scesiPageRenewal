@@ -4,7 +4,7 @@
 2. cd nombreProy
   3. git init
   4. git clone https://github.com/phanzr/scesiPageRenewal
-  4. Generar vue (npm y demas)
+  4. Instalar env vue 
   Para subir a github 
   5. git status 
   5. git ignore sam
